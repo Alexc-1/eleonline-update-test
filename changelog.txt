@@ -1,0 +1,2 @@
+Versione 1.0.0
+- Prima versione test sistema aggiornamenti
