@@ -1,2 +1,2 @@
-Versione 1.0.2
+Versione 1.0.1
 - Prima versione test sistema aggiornamenti
